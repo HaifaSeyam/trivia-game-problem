@@ -1,1 +1,1 @@
-# trivia-game-problem
+# TriviaGame

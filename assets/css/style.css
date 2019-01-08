@@ -1,0 +1,117 @@
+/*Start main rules*/
+body {
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/bg.png");
+}
+/*End main rules*/
+
+.container {
+    height: 400px;
+    width: 800px;
+    margin: 100px auto;
+    background-color: white;
+}
+
+h1 {
+    color: maroon;
+    font-family:"Comic Sans MS";
+    font-size: 40px;
+    text-align: center;
+    margin: 20px auto;
+}
+
+button#startBtn{
+    background-color: white;
+    border: 2px solid maroon;
+    color:maroon;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    position: relative;
+    left: 330px;
+  }
+
+
+
+
+/* Responsiveness to be added later
+@media screen and (max-width: 980px) {
+    .main-section {
+      width: 60%;
+      margin-left: 10px;
+    }
+    #logo {
+      margin-left: 10px;
+    }
+    nav {
+      margin-right: 10px;
+    }
+    #contact-form ul {
+      padding-left: 0px;
+    }
+    .work:nth-child(even) {
+      margin-right: 30px auto;
+    }
+    .work {
+      width: 40%;
+    }
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    .main-section {
+      width: 100%;
+      margin: 10px auto;
+    }
+    #logo {
+      margin-left: 10px;
+    }
+    nav {
+      margin-right: 10px;
+    }
+    .auth-image {
+      width: 50%;
+    }
+    #contact-form {
+      width: 100%;
+    }
+    #contact-form ul {
+      padding-left: 0px;
+    }
+  }
+  .work {
+    width: 40%;
+  }
+  
+  
+  @media screen and (max-width: 640px) {
+    .main-section {
+      width: 100%;
+      margin: 10px auto;
+      font-size: 20px;
+    }
+    #logo {
+      width: 100%;
+      margin-left: 0px;
+    }
+    nav {
+      width: 100%;
+      text-align: center;
+      font-size: 16px;
+    }
+    .auth-image {
+      width: 100%;
+    }
+    #contact-form {
+      width: 100%;
+    }
+    #contact-form ul {
+      padding-left: 0px;
+    }
+    .work {
+      width: 100%;
+    }
+  }
+  */
